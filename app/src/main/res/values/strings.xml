@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">exam-screens</string>
+    <string name="home">Home Screen</string>
+    <string name="favorites">Favorites Screen</string>
+    <string name="details">Details Screen</string>
+    <string name="home_title">Latest Articles</string>
+    <string name="favorites_title">Favorite Articles</string>
+    <string name="details_title">Article Details</string>
+    <string name="error_loading_details">Failed to load article details.</string>
+    <string name="no_favorites">No favorites added yet.</string>
+    <string name="add_favorites">Go to an article and click \'Add to favorites\' to save it here.</string>
+</resources>
